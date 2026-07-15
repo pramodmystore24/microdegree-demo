@@ -1,0 +1,4 @@
+Python is awesome
+I want to become AI engineer
+I want to clear LLM engineering interview
+This is a File I/O function explanationThis is a File I/O function explanation

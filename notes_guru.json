@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rahul Gupta",
+    "roll": "CS001",
+    "marks": {
+      "Maths": 88,
+      "Science": 92
+    }
+  },
+  {
+    "name": "Priya Sharma",
+    "roll": "CS002",
+    "marks": {
+      "Maths": 95,
+      "Science": 97
+    }
+  },
+  {
+    "name": "Arjun Singh",
+    "roll": "CS003",
+    "marks": {
+      "Maths": 62,
+      "Science": 70
+    }
+  }
+]
